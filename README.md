@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abiola Abdulsalam</h1>
 <h3 align="center">A passionate web developer from Lagos, Nigeria</h3>
-<img src ='https://media.licdn.com/dms/image/D4D16AQG_Qd3lV_wRyQ/profile-displaybackgroundimage-shrink_350_1400/0/1699482144707?e=1704931200&v=beta&t=NZpX322lFbZ0ccE1Mh9FF6PYtOKTVJgv9b6XVDXP34Q' alt='mybanner'>
+<img src ='[https://media.licdn.com/dms/image/D4D16AQG_Qd3lV_wRyQ/profile-displaybackgroundimage-shrink_350_1400/0/1699482144707?e=1704931200&v=beta&t=NZpX322lFbZ0ccE1Mh9FF6PYtOKTVJgv9b6XVDXP34Q](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)' alt='mybanner'>
 
 :man_technologist: About Me:
 
