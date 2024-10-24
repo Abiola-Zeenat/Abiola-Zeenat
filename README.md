@@ -2,21 +2,24 @@
 <h3 align="center">A passionate web developer from Lagos, Nigeria</h3>
 <img src ='https://media.licdn.com/dms/image/D4D16AQG_Qd3lV_wRyQ/profile-displaybackgroundimage-shrink_350_1400/0/1699482144707?e=1704931200&v=beta&t=NZpX322lFbZ0ccE1Mh9FF6PYtOKTVJgv9b6XVDXP34Q' alt='mybanner>
 
-- 🔭 I’m currently working on **fliT software development projects**
+:man_technologist: About Me:
 
-- 🌱 I’m currently learning **React, .NET**
+- 🔭 I’m currently working on **wasteFlip and exclusive e-commerce projects**
+
+- 🌱 I’m currently learning **Node, expressjs**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📫 How to reach me **azabdulsalam1@gmail.com**
+- 📫 How to reach me on : **azabdulsalam1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
+<div align="left"> 
   <a href="https://www.github.com/Abiola-Zeenat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a> 
   <a href="https://www.linkedin.com/in/abdulsalam-abiola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
-  </a> <a href="https://www.twitter.com/AbiolaZeenat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+  </a> <a href="https://www.twitter.com/AbiolaZeenat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</div>
 
 ### Skills
 
@@ -45,7 +48,3 @@
 <a href="http://www.github.com/Abiola-Zeenat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abiola-Zeenat&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://www.github.com/Abiola-Zeenat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiola-Zeenat&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-
