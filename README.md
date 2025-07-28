@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abiola Abdulsalam</h1>
 <h3 align="center">A passionate software developer from Lagos, Nigeria</h3>
-<img src ='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' alt='mybanner'>
+<img src ='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' align="center" alt='mybanner'>
 
 :man_technologist: About Me:
 
